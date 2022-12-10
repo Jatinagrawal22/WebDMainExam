@@ -1,0 +1,272 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: white;
+    padding: 3rem;
+    height: 10px;
+    width: 1690px;
+}
+#img{
+    position: absolute;
+    top: 40px;
+    left: 60px;
+    height: 5vh;
+    width: 3vw;
+    margin-right: 0.6rem;
+}
+ul{
+    /* position: absolute;
+    right: 450px;
+    top: 50px; */
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+}
+li a{
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color:blue;
+    justify-content: center;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+li a:hover{
+    color: orangered;
+}
+.mil{
+    color: black;
+    font-size: 2rem;
+    position: absolute;
+    top: 40px;
+    left: 120px;
+}
+.man{
+    color: black;
+    font-size: 1.8rem;
+    position: absolute;
+    top: 43px;
+    right: 15px;
+}
+.aa{
+    height: 5vh;
+    width: 3vw;
+    position: absolute;
+    top: 40px;
+    right: 130px;
+}
+.ab{
+    height: 5vh;
+    width: 3vw;
+    position: absolute;
+    top: 40px;
+    right: 190px;
+}
+.ac{
+    height: 5vh;
+    width: 3vw;
+    position: absolute;
+    top: 40px;
+    right: 260px;
+}
+.aa:hover{
+    background-color: orange;
+}
+.first{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
+h1{
+    margin: 40px;
+    font-size: 2rem;
+}
+.butt{
+    position: absolute;
+    top: 180px;
+    left: 110px;
+    font-size: large;
+}
+.butt1{
+    position: absolute;
+    top: 180px;
+    left: 279px;
+    font-size: large;
+}
+.first div{
+    width: 385px;
+    border: solid 1px;
+}
+.butt2{
+    width: 90px;
+    background-color: blue;
+    font-size: larger;
+    border-radius: 10px;
+}
+.b2{
+    background-color: aquamarine;
+    width: 350px;
+    height: 250px;
+    margin-left: 20px;
+}
+textarea{
+    font-size: larger;
+    margin-left: 60px;
+    margin: 10px;
+    margin-top: 20px;
+    height: 30px;
+}
+.butt3{
+    width: 200px;
+    margin-left: 70px;
+    background-color: blue;
+    font-size: larger;
+}
+input{
+    font-size: 3.5rem;
+    padding: 10px;
+    margin-left: 60px;
+}
+.b6{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 320px;
+    left: 400px;
+    background-color: aliceblue;
+}
+.ux{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    height: 70px;
+    width: 70px;
+}
+.bb1{
+    background-color: aquamarine;
+    color: blue;
+    margin: 7px;
+    font-size: larger;
+}
+.bb2{
+    background-color: blue;
+    color:black;
+    margin-left: 20px;
+    margin: 20px;
+    font-size: xx-large;
+}
+.bb3{
+    background-color: gray;
+    color:black;
+    margin: 7px;
+    font-size: xx-large;
+}
+.b7{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 320px;
+    left: 830px;
+    background-color: aliceblue;
+}
+.b8{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 320px;
+    left: 1260px;
+    background-color: aliceblue;
+}
+.b9{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 700px;
+    left: 400px;
+    background-color: aliceblue;
+}
+.b10{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 700px;
+    left: 830px;
+    background-color: aliceblue;
+}
+.b11{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 700px;
+    left: 1260px;
+    background-color: aliceblue;
+}
+.b12{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 1100px;
+    left: 400px;
+    background-color: aliceblue;
+}
+.b13{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 1100px;
+    left: 830px;
+    background-color: aliceblue;
+}
+.b14{
+    height: 350px;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    position: absolute;
+    top: 1100px;
+    left: 1260px;
+    background-color: aliceblue;
+}
+.span{
+    font-size: 1.8rem;
+    position: absolute;
+    top: 270px;
+    left: 420px;
+}
+.span1{
+    font-size: 1.2rem;
+    position: absolute;
+    top: 275px;
+    right: 100px;
+}
+.second div{
+    transition-property: all;
+    transition-duration: 2s;
+    animation: alternate;
+    animation-duration: 2s;
+}
+.second div:hover{
+    height: 400px;
+    
+    background-color: wheat;
+}
